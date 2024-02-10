@@ -11,8 +11,9 @@ import javax.persistence.Id;
 import org.hibernate.annotations.Type;
 import org.springframework.data.annotation.CreatedDate;
 import org.springframework.format.annotation.DateTimeFormat;
+
+import com.example.demo.BookEnum.Role;
 import com.fasterxml.jackson.annotation.JsonFormat;
-import com.example.demo.EmployeeEnum.Role;
 
 @Entity
 public class EmployeeModel {

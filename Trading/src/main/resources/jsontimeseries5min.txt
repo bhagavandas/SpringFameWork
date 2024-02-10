@@ -1,0 +1,752 @@
+   [
+	   {
+         "lastTradeTime": "02-19-2021 15:25:00",
+         "quotationLot": "1",
+         "tradedQty": "226385",
+         "openInterest": "0",
+         "open": "672.85",
+         "high": "673.65",
+         "low": "669.4",
+         "close": "669.4"
+      },
+      {
+         "lastTradeTime": "02-19-2021 15:20:00",
+         "quotationLot": "1",
+         "tradedQty": "515998",
+         "openInterest": "0",
+         "open": "672.95",
+         "high": "673.95",
+         "low": "670",
+         "close": "672.75"
+      },
+      {
+         "lastTradeTime": "02-19-2021 15:15:00",
+         "quotationLot": "1",
+         "tradedQty": "629517",
+         "openInterest": "0",
+         "open": "672.8",
+         "high": "674.6",
+         "low": "670.1",
+         "close": "672.8"
+      },
+      {
+         "lastTradeTime": "02-19-2021 15:10:00",
+         "quotationLot": "1",
+         "tradedQty": "589894",
+         "openInterest": "0",
+         "open": "669.7",
+         "high": "673",
+         "low": "669.4",
+         "close": "672.5"
+      },
+      {
+         "lastTradeTime": "02-19-2021 15:05:00",
+         "quotationLot": "1",
+         "tradedQty": "490916",
+         "openInterest": "0",
+         "open": "666.95",
+         "high": "669.9",
+         "low": "665",
+         "close": "669.6"
+      },
+      {
+         "lastTradeTime": "02-19-2021 15:00:00",
+         "quotationLot": "1",
+         "tradedQty": "305501",
+         "openInterest": "0",
+         "open": "664.9",
+         "high": "667.85",
+         "low": "664.65",
+         "close": "666.5"
+      },
+      {
+         "lastTradeTime": "02-19-2021 14:55:00",
+         "quotationLot": "1",
+         "tradedQty": "228269",
+         "openInterest": "0",
+         "open": "666.4",
+         "high": "667",
+         "low": "664.2",
+         "close": "665"
+      },
+      {
+         "lastTradeTime": "02-19-2021 14:50:00",
+         "quotationLot": "1",
+         "tradedQty": "228704",
+         "openInterest": "0",
+         "open": "667.5",
+         "high": "668.8",
+         "low": "665.05",
+         "close": "666.7"
+      },
+      {
+         "lastTradeTime": "02-19-2021 14:45:00",
+         "quotationLot": "1",
+         "tradedQty": "327055",
+         "openInterest": "0",
+         "open": "667",
+         "high": "667.55",
+         "low": "664.25",
+         "close": "667.45"
+      },
+      {
+         "lastTradeTime": "02-19-2021 14:40:00",
+         "quotationLot": "1",
+         "tradedQty": "336844",
+         "openInterest": "0",
+         "open": "668.25",
+         "high": "669.7",
+         "low": "666.6",
+         "close": "667.1"
+      },
+      {
+         "lastTradeTime": "02-19-2021 14:35:00",
+         "quotationLot": "1",
+         "tradedQty": "441167",
+         "openInterest": "0",
+         "open": "667.45",
+         "high": "669.15",
+         "low": "666.1",
+         "close": "668.2"
+      },
+      {
+         "lastTradeTime": "02-19-2021 14:30:00",
+         "quotationLot": "1",
+         "tradedQty": "393785",
+         "openInterest": "0",
+         "open": "666.25",
+         "high": "668.1",
+         "low": "663",
+         "close": "667.75"
+      },
+      {
+         "lastTradeTime": "02-19-2021 14:25:00",
+         "quotationLot": "1",
+         "tradedQty": "432852",
+         "openInterest": "0",
+         "open": "662.45",
+         "high": "666.55",
+         "low": "662.25",
+         "close": "665.7"
+      },
+      {
+         "lastTradeTime": "02-19-2021 14:20:00",
+         "quotationLot": "1",
+         "tradedQty": "343122",
+         "openInterest": "0",
+         "open": "663.9",
+         "high": "665",
+         "low": "661.05",
+         "close": "662.55"
+      },
+      {
+         "lastTradeTime": "02-19-2021 14:15:00",
+         "quotationLot": "1",
+         "tradedQty": "609858",
+         "openInterest": "0",
+         "open": "658.4",
+         "high": "664",
+         "low": "657.7",
+         "close": "664"
+      },
+      {
+         "lastTradeTime": "02-19-2021 14:10:00",
+         "quotationLot": "1",
+         "tradedQty": "880118",
+         "openInterest": "0",
+         "open": "665.05",
+         "high": "667.5",
+         "low": "655.95",
+         "close": "658.15"
+      },
+      {
+         "lastTradeTime": "02-19-2021 14:05:00",
+         "quotationLot": "1",
+         "tradedQty": "474039",
+         "openInterest": "0",
+         "open": "666.65",
+         "high": "669.45",
+         "low": "664.5",
+         "close": "664.7"
+      },
+      {
+         "lastTradeTime": "02-19-2021 14:00:00",
+         "quotationLot": "1",
+         "tradedQty": "926752",
+         "openInterest": "0",
+         "open": "673.75",
+         "high": "673.8",
+         "low": "666.3",
+         "close": "667"
+      },
+      {
+         "LastTradeTime": "02-19-2021 13:55:00",
+         "QuotationLot": "1",
+         "TradedQty": "96852",
+         "OpenInterest": "0",
+         "Open": "674.75",
+         "high": "674.85",
+         "Low": "673",
+         "Close": "673.8"
+      },
+      {
+         "LastTradeTime": "02-19-2021 13:50:00",
+         "QuotationLot": "1",
+         "TradedQty": "149376",
+         "OpenInterest": "0",
+         "Open": "674.9",
+         "high": "675.95",
+         "Low": "674",
+         "Close": "674.45"
+      },
+      {
+         "LastTradeTime": "02-19-2021 13:45:00",
+         "QuotationLot": "1",
+         "TradedQty": "167598",
+         "OpenInterest": "0",
+         "Open": "673.95",
+         "high": "675",
+         "Low": "673",
+         "Close": "674.9"
+      },
+      {
+         "LastTradeTime": "02-19-2021 13:40:00",
+         "QuotationLot": "1",
+         "TradedQty": "290579",
+         "OpenInterest": "0",
+         "Open": "673.5",
+         "high": "674.55",
+         "Low": "672.25",
+         "Close": "673.55"
+      },
+      {
+         "LastTradeTime": "02-19-2021 13:35:00",
+         "QuotationLot": "1",
+         "TradedQty": "289523",
+         "OpenInterest": "0",
+         "Open": "673.55",
+         "High": "675.5",
+         "Low": "673.5",
+         "Close": "673.9"
+      },
+      {
+         "LastTradeTime": "02-19-2021 13:30:00",
+         "QuotationLot": "1",
+         "TradedQty": "724552",
+         "OpenInterest": "0",
+         "Open": "677.95",
+         "High": "678",
+         "Low": "672.75",
+         "Close": "673.35"
+      },
+      {
+         "LastTradeTime": "02-19-2021 13:25:00",
+         "QuotationLot": "1",
+         "TradedQty": "154294",
+         "OpenInterest": "0",
+         "Open": "679.4",
+         "High": "679.45",
+         "Low": "677.6",
+         "Close": "677.95"
+      },
+      {
+         "LastTradeTime": "02-19-2021 13:20:00",
+         "QuotationLot": "1",
+         "TradedQty": "51884",
+         "OpenInterest": "0",
+         "Open": "679.4",
+         "High": "680.45",
+         "Low": "679.15",
+         "Close": "679.4"
+      },
+      {
+         "LastTradeTime": "02-19-2021 13:15:00",
+         "QuotationLot": "1",
+         "TradedQty": "53512",
+         "OpenInterest": "0",
+         "Open": "679.8",
+         "High": "679.9",
+         "Low": "679",
+         "Close": "679.25"
+      },
+      {
+         "LastTradeTime": "02-19-2021 13:10:00",
+         "QuotationLot": "1",
+         "TradedQty": "200825",
+         "OpenInterest": "0",
+         "Open": "679",
+         "High": "681.5",
+         "Low": "678",
+         "Close": "679.9"
+      },
+      {
+         "LastTradeTime": "02-19-2021 13:05:00",
+         "QuotationLot": "1",
+         "TradedQty": "184994",
+         "OpenInterest": "0",
+         "Open": "680.75",
+         "High": "680.95",
+         "Low": "678.55",
+         "Close": "679.25"
+      },
+      {
+         "LastTradeTime": "02-19-2021 13:00:00",
+         "QuotationLot": "1",
+         "TradedQty": "164134",
+         "OpenInterest": "0",
+         "Open": "681",
+         "High": "681.35",
+         "Low": "680",
+         "Close": "680.9"
+      },
+      {
+         "LastTradeTime": "02-19-2021 12:55:00",
+         "QuotationLot": "1",
+         "TradedQty": "93148",
+         "OpenInterest": "0",
+         "Open": "681.75",
+         "High": "682",
+         "Low": "680.6",
+         "Close": "681"
+      },
+      {
+         "LastTradeTime": "02-19-2021 12:50:00",
+         "QuotationLot": "1",
+         "TradedQty": "59532",
+         "OpenInterest": "0",
+         "Open": "681.85",
+         "High": "682.55",
+         "Low": "681.1",
+         "Close": "681.75"
+      },
+      {
+         "LastTradeTime": "02-19-2021 12:45:00",
+         "QuotationLot": "1",
+         "TradedQty": "94920",
+         "OpenInterest": "0",
+         "Open": "683.15",
+         "High": "683.4",
+         "Low": "681.9",
+         "Close": "681.9"
+      },
+      {
+         "LastTradeTime": "02-19-2021 12:40:00",
+         "QuotationLot": "1",
+         "TradedQty": "283049",
+         "OpenInterest": "0",
+         "Open": "682.85",
+         "High": "684.2",
+         "Low": "682.45",
+         "Close": "683"
+      },
+      {
+         "LastTradeTime": "02-19-2021 12:35:00",
+         "QuotationLot": "1",
+         "TradedQty": "104023",
+         "OpenInterest": "0",
+         "Open": "680.8",
+         "High": "682.85",
+         "Low": "680.3",
+         "Close": "682.75"
+      },
+      {
+         "LastTradeTime": "02-19-2021 12:30:00",
+         "QuotationLot": "1",
+         "TradedQty": "114353",
+         "OpenInterest": "0",
+         "Open": "680.75",
+         "High": "681.7",
+         "Low": "680.3",
+         "Close": "680.65"
+      },
+      {
+         "LastTradeTime": "02-19-2021 12:25:00",
+         "QuotationLot": "1",
+         "TradedQty": "89395",
+         "OpenInterest": "0",
+         "Open": "681.5",
+         "High": "681.8",
+         "Low": "680.35",
+         "Close": "680.8"
+      },
+      {
+         "LastTradeTime": "02-19-2021 12:20:00",
+         "QuotationLot": "1",
+         "TradedQty": "95579",
+         "OpenInterest": "0",
+         "Open": "682.05",
+         "High": "683",
+         "Low": "681",
+         "Close": "681.5"
+      },
+      {
+         "LastTradeTime": "02-19-2021 12:15:00",
+         "QuotationLot": "1",
+         "TradedQty": "88799",
+         "OpenInterest": "0",
+         "Open": "683.3",
+         "High": "683.5",
+         "Low": "682.1",
+         "Close": "682.2"
+      },
+      {
+         "LastTradeTime": "02-19-2021 12:10:00",
+         "QuotationLot": "1",
+         "TradedQty": "117464",
+         "OpenInterest": "0",
+         "Open": "683.1",
+         "High": "683.9",
+         "Low": "682.8",
+         "Close": "683.3"
+      },
+      {
+         "LastTradeTime": "02-19-2021 12:05:00",
+         "QuotationLot": "1",
+         "TradedQty": "160364",
+         "OpenInterest": "0",
+         "Open": "682.95",
+         "High": "683.8",
+         "Low": "682.6",
+         "Close": "683.1"
+      },
+      {
+         "LastTradeTime": "02-19-2021 12:00:00",
+         "QuotationLot": "1",
+         "TradedQty": "105431",
+         "OpenInterest": "0",
+         "Open": "681.95",
+         "High": "683",
+         "Low": "681.2",
+         "Close": "682.8"
+      },
+      {
+         "LastTradeTime": "02-19-2021 11:55:00",
+         "QuotationLot": "1",
+         "TradedQty": "88416",
+         "OpenInterest": "0",
+         "Open": "681.95",
+         "High": "682.45",
+         "Low": "681.15",
+         "Close": "681.8"
+      },
+      {
+         "LastTradeTime": "02-19-2021 11:50:00",
+         "QuotationLot": "1",
+         "TradedQty": "194425",
+         "OpenInterest": "0",
+         "Open": "682.4",
+         "High": "683.8",
+         "Low": "681.7",
+         "Close": "681.95"
+      },
+      {
+         "LastTradeTime": "02-19-2021 11:45:00",
+         "QuotationLot": "1",
+         "TradedQty": "194769",
+         "OpenInterest": "0",
+         "Open": "682.25",
+         "High": "683.4",
+         "Low": "682.05",
+         "Close": "682.4"
+      },
+      {
+         "LastTradeTime": "02-19-2021 11:40:00",
+         "QuotationLot": "1",
+         "TradedQty": "92239",
+         "OpenInterest": "0",
+         "Open": "681.7",
+         "High": "682.2",
+         "Low": "681",
+         "Close": "682"
+      },
+      {
+         "LastTradeTime": "02-19-2021 11:35:00",
+         "QuotationLot": "1",
+         "TradedQty": "101940",
+         "OpenInterest": "0",
+         "Open": "680.75",
+         "High": "682",
+         "Low": "680",
+         "Close": "681.65"
+      },
+      {
+         "LastTradeTime": "02-19-2021 11:30:00",
+         "QuotationLot": "1",
+         "TradedQty": "96277",
+         "OpenInterest": "0",
+         "Open": "681.9",
+         "High": "682.1",
+         "Low": "680.1",
+         "Close": "680.75"
+      },
+      {
+         "LastTradeTime": "02-19-2021 11:25:00",
+         "QuotationLot": "1",
+         "TradedQty": "176102",
+         "OpenInterest": "0",
+         "Open": "682.25",
+         "High": "682.3",
+         "Low": "681.1",
+         "Close": "681.85"
+      },
+      {
+         "LastTradeTime": "02-19-2021 11:20:00",
+         "QuotationLot": "1",
+         "TradedQty": "202829",
+         "OpenInterest": "0",
+         "Open": "680.4",
+         "High": "682.35",
+         "Low": "680",
+         "Close": "681.95"
+      },
+      {
+         "LastTradeTime": "02-19-2021 11:15:00",
+         "QuotationLot": "1",
+         "TradedQty": "127132",
+         "OpenInterest": "0",
+         "Open": "679.3",
+         "High": "680.6",
+         "Low": "678.2",
+         "Close": "680.45"
+      },
+      {
+         "LastTradeTime": "02-19-2021 11:10:00",
+         "QuotationLot": "1",
+         "TradedQty": "117358",
+         "OpenInterest": "0",
+         "Open": "677.75",
+         "High": "679.85",
+         "Low": "677.7",
+         "Close": "679.5"
+      },
+      {
+         "LastTradeTime": "02-19-2021 11:05:00",
+         "QuotationLot": "1",
+         "TradedQty": "122309",
+         "OpenInterest": "0",
+         "Open": "677.95",
+         "High": "679.5",
+         "Low": "677.5",
+         "Close": "678.3"
+      },
+      {
+         "LastTradeTime": "02-19-2021 11:00:00",
+         "QuotationLot": "1",
+         "TradedQty": "212101",
+         "OpenInterest": "0",
+         "Open": "677.5",
+         "High": "678.4",
+         "Low": "677.4",
+         "Close": "677.95"
+      },
+      {
+         "LastTradeTime": "02-19-2021 10:55:00",
+         "QuotationLot": "1",
+         "TradedQty": "252971",
+         "OpenInterest": "0",
+         "Open": "678.85",
+         "High": "679.65",
+         "Low": "678",
+         "Close": "678.2"
+      },
+      {
+         "LastTradeTime": "02-19-2021 10:50:00",
+         "QuotationLot": "1",
+         "TradedQty": "370320",
+         "OpenInterest": "0",
+         "Open": "680.25",
+         "High": "680.9",
+         "Low": "678.5",
+         "Close": "678.9"
+      },
+      {
+         "LastTradeTime": "02-19-2021 10:45:00",
+         "QuotationLot": "1",
+         "TradedQty": "238497",
+         "OpenInterest": "0",
+         "Open": "682.8",
+         "High": "683.05",
+         "Low": "680.3",
+         "Close": "680.55"
+      },
+      {
+         "LastTradeTime": "02-19-2021 10:40:00",
+         "QuotationLot": "1",
+         "TradedQty": "189876",
+         "OpenInterest": "0",
+         "Open": "683.4",
+         "High": "684.2",
+         "Low": "682.5",
+         "Close": "682.75"
+      },
+      {
+         "LastTradeTime": "02-19-2021 10:35:00",
+         "QuotationLot": "1",
+         "TradedQty": "176238",
+         "OpenInterest": "0",
+         "Open": "682.5",
+         "High": "683.1",
+         "Low": "681.35",
+         "Close": "683.1"
+      },
+      {
+         "LastTradeTime": "02-19-2021 10:30:00",
+         "QuotationLot": "1",
+         "TradedQty": "200203",
+         "OpenInterest": "0",
+         "Open": "682.4",
+         "High": "684.3",
+         "Low": "681.85",
+         "Close": "682.3"
+      },
+      {
+         "LastTradeTime": "02-19-2021 10:25:00",
+         "QuotationLot": "1",
+         "TradedQty": "372894",
+         "OpenInterest": "0",
+         "Open": "683.4",
+         "High": "684.95",
+         "Low": "682.15",
+         "Close": "682.15"
+      },
+      {
+         "LastTradeTime": "02-19-2021 10:20:00",
+         "QuotationLot": "1",
+         "TradedQty": "149592",
+         "OpenInterest": "0",
+         "Open": "681.7",
+         "High": "683.5",
+         "Low": "681.7",
+         "Close": "683.4"
+      },
+      {
+         "LastTradeTime": "02-19-2021 10:15:00",
+         "QuotationLot": "1",
+         "TradedQty": "200842",
+         "OpenInterest": "0",
+         "Open": "682.5",
+         "High": "683.25",
+         "Low": "681.45",
+         "Close": "681.5"
+      },
+      {
+         "LastTradeTime": "02-19-2021 10:10:00",
+         "QuotationLot": "1",
+         "TradedQty": "280797",
+         "OpenInterest": "0",
+         "Open": "681.55",
+         "High": "684",
+         "Low": "681.55",
+         "Close": "682.6"
+      },
+      {
+         "LastTradeTime": "02-19-2021 10:05:00",
+         "QuotationLot": "1",
+         "TradedQty": "212689",
+         "OpenInterest": "0",
+         "Open": "681.6",
+         "High": "682.15",
+         "Low": "680.65",
+         "Close": "681.55"
+      },
+      {
+         "LastTradeTime": "02-19-2021 10:00:00",
+         "QuotationLot": "1",
+         "TradedQty": "277694",
+         "OpenInterest": "0",
+         "Open": "682.6",
+         "High": "683.5",
+         "Low": "681.6",
+         "Close": "681.6"
+      },
+      {
+         "LastTradeTime": "02-19-2021 09:55:00",
+         "QuotationLot": "1",
+         "TradedQty": "237341",
+         "OpenInterest": "0",
+         "Open": "682.65",
+         "High": "682.9",
+         "Low": "680.7",
+         "Close": "682.7"
+      },
+      {
+         "LastTradeTime": "02-19-2021 09:50:00",
+         "QuotationLot": "1",
+         "TradedQty": "418651",
+         "OpenInterest": "0",
+         "Open": "680.75",
+         "High": "683",
+         "Low": "680.4",
+         "Close": "682.8"
+      },
+      {
+         "LastTradeTime": "02-19-2021 09:45:00",
+         "QuotationLot": "1",
+         "TradedQty": "268833",
+         "OpenInterest": "0",
+         "Open": "681.45",
+         "High": "682",
+         "Low": "679",
+         "Close": "680.65"
+      },
+      {
+         "LastTradeTime": "02-19-2021 09:40:00",
+         "QuotationLot": "1",
+         "TradedQty": "441307",
+         "OpenInterest": "0",
+         "Open": "679.25",
+         "High": "682.15",
+         "Low": "679.25",
+         "Close": "681.35"
+      },
+      {
+         "LastTradeTime": "02-19-2021 09:35:00",
+         "QuotationLot": "1",
+         "TradedQty": "300415",
+         "OpenInterest": "0",
+         "Open": "679.75",
+         "High": "680",
+         "Low": "678",
+         "Close": "679.25"
+      },
+      {
+         "LastTradeTime": "02-19-2021 09:30:00",
+         "QuotationLot": "1",
+         "TradedQty": "624568",
+         "OpenInterest": "0",
+         "Open": "675.6",
+         "High": "680.5",
+         "Low": "675.6",
+         "Close": "679.4"
+      },
+      {
+         "LastTradeTime": "02-19-2021 09:25:00",
+         "QuotationLot": "1",
+         "TradedQty": "942441",
+         "OpenInterest": "0",
+         "Open": "679.5",
+         "High": "679.8",
+         "Low": "675",
+         "Close": "675.75"
+      },
+      {
+         "LastTradeTime": "02-19-2021 09:20:00",
+         "QuotationLot": "1",
+         "TradedQty": "933175",
+         "OpenInterest": "0",
+         "Open": "681.65",
+         "High": "682.8",
+         "Low": "678.4",
+         "Close": "679.75"
+      },
+      {
+         "LastTradeTime": "02-19-2021 09:15:00",
+         "QuotationLot": "1",
+         "TradedQty": "1251410",
+         "OpenInterest": "0",
+         "Open": "696",
+         "High": "696",
+         "Low": "682",
+         "Close": "682.85"
+	}
+]
